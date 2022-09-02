@@ -1,3 +1,2 @@
 #!bin/bash
-chmod a+x hello
-chmod u+x 7-everybody 
+chmod a+x ./hello 
